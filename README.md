@@ -6,7 +6,7 @@ Hello there! 👋 I'm Aadil Salman Butt, a passionate programmer from Lahore, Pa
 
 ## About Me
 
-I am a [web enthusiast with a strong passion for web development. My journey in the world of the web  began in 2023.
+I am a web enthusiast with a strong passion for web development. My journey in the world of the web  began in 2023.
 
 - 🔭 I’m currently working on React JS.
 - 🌱 I’m currently learning Node JS and MongoDB.
