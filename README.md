@@ -66,13 +66,12 @@ Passionate about building intelligent, impactful, and user-friendly applications
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aadilsal&theme=tokyonight)  
+## 🌟 Highlights
+- 🧠 **Innovator at Heart:** From creating a custom LLVM-based programming language to developing AI-powered legal assistants.  
+- 🎯 **Results-Oriented:** Build projects that are not just functional, but solve real-world problems effectively.  
+- 🌍 **Versatile Skillset:** Comfortable working across full-stack web development, AI, and creative media design.  
+- 🏎 **Passion for Data:** Experienced in data-driven projects like Formula 1 strategy prediction.  
+- 📸 **Creative Edge:** Skilled in digital media tools, photography, and animation.  
 
 ---
 
