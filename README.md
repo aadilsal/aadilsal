@@ -1,22 +1,86 @@
-# Welcome to My GitHub Profile!
+# Hi there, I’m Aadil Salman Butt 👋  
 
-![Header Image](header-image-link)
+🚀 **Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast**  
+Passionate about building intelligent, impactful, and user-friendly applications — from AI-powered tools to interactive web platforms. Currently pursuing my degree at the **National University of Computer & Emerging Sciences** and actively working on projects that blend creativity with technology.
 
-Hello there! 👋 I'm Aadil Salman Butt, a passionate programmer from Lahore, Pakistan. I love web development and I'm always excited to learn and collaborate on exciting projects. 
+---
 
-## About Me
+## 🛠 Skills & Tools
 
-I am a web enthusiast with a strong passion for web development. My journey in the world of the web  began in 2023.
+### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on React JS.
-- 🌱 I’m currently learning Node JS and MongoDB.
+### 🤖 AI & Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-101010?style=for-the-badge&logo=facebook&logoColor=blue)
 
+### 🎨 Design & Media
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-## Get in Touch
+---
 
-I'm always open to interesting discussions and collaborations. Feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/aadil-salman-butt-605835257/).
+## 📂 Featured Projects
+- **[Magik](#)** – A spell-inspired programming language built on LLVM, turning code into enchanting computational incantations.  
+- **[LegalMindRAG](#)** – AI-powered human rights legal assistant using RAG, FAISS, and LLMs to deliver verified legal answers.  
+- **[Finbotics](#)** – AI-driven MERN stack finance dashboard with analytics, visualizations, and ML predictions.  
+- **[F1 Tyre Strategy Predictor](#)** – Data-driven predictive analytics project for Formula 1 race strategy optimization.  
+- **[Hospital Management System](#)** – ASP.NET + MsSQL-based system for managing hospital operations.  
+- **[Tetris](#)** – C++ OOP implementation with SFML graphics.  
 
-Looking forward to connecting with fellow developers, designers, and enthusiasts!
+---
 
-Cheers,
-Aadil Salman Butt
+## 🎓 Education
+- **National University of Computer & Emerging Sciences** – BS Computer Science (2022–Present)  
+- Lahore Grammar School (2020–2022)  
+- Beaconhouse School System (2017–2020)  
+
+---
+
+## 💼 Experience
+- **Web Development Intern** – Fiveriver Technologies  
+  Front-end development using HTML, CSS, JavaScript, React.js, and MongoDB.  
+- **Graphic Designer** – Teach for Pakistan  
+  Designed educational books for primary school students.  
+- **Digital Marketing Intern** – Evolution Magazine  
+  Learned and applied data-driven marketing strategies.  
+
+---
+
+## 📜 Certifications
+- Digital Skills: Artificial Intelligence – Future Learn  
+- Learn Adobe Premiere Pro CC – Udemy  
+- Basic Animation in After Effects – Udemy  
+- Diploma in Digital Photography – Alison  
+- Photoshop CS6 Essential Tools – Alison  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aadilsal&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me
+- Email: **[aadilsalman786@gmail.com](mailto:aadilsalman786@gmail.com)**  
+- LinkedIn: **[linkedin.com/in/aadilsal](#)**  
+- GitHub: **[github.com/aadilsal](#)**  
+
+---
+
+⭐ _"I believe in building technology that inspires, informs, and empowers."_
