@@ -36,7 +36,8 @@ Passionate about building intelligent, impactful, and user-friendly applications
 - **[Finbotics](#)** – AI-driven MERN stack finance dashboard with analytics, visualizations, and ML predictions.  
 - **[F1 Tyre Strategy Predictor](#)** – Data-driven predictive analytics project for Formula 1 race strategy optimization.  
 - **[Hospital Management System](#)** – ASP.NET + MsSQL-based system for managing hospital operations.  
-- **[Tetris](#)** – C++ OOP implementation with SFML graphics.  
+- **[Tetris](#)** – C++ OOP implementation with SFML graphics.
+- **[ApexFlow](#)** - ApexFlow is a production-grade, end-to-end MLOps platform designed for real-time Formula 1 lap-time prediction.
 
 ---
 
@@ -48,6 +49,8 @@ Passionate about building intelligent, impactful, and user-friendly applications
 ---
 
 ## 💼 Experience
+- **Associate Software Engineer** - ILMVERSITY (by Dalilmverse)
+  Developing scalable Next.js/React applications and integrating REST APIs.
 - **Web Development Intern** – Fiveriver Technologies  
   Front-end development using HTML, CSS, JavaScript, React.js, and MongoDB.  
 - **Graphic Designer** – Teach for Pakistan  
@@ -62,7 +65,8 @@ Passionate about building intelligent, impactful, and user-friendly applications
 - Learn Adobe Premiere Pro CC – Udemy  
 - Basic Animation in After Effects – Udemy  
 - Diploma in Digital Photography – Alison  
-- Photoshop CS6 Essential Tools – Alison  
+- Photoshop CS6 Essential Tools – Alison
+- AWS Academy Graduate – Cloud Foundations
 
 ---
 
