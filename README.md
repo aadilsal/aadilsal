@@ -50,14 +50,18 @@ Passionate about building intelligent, impactful, and user-friendly applications
 
 ## 💼 Experience
 
-**Associate Software Engineer** – ILMVERSITY (by Dalilmverse) Developing scalable Next.js/React applications, integrating REST APIs, and contributing to a reusable design system.
-+1
-**Web Development Intern** – Fiveriver Technologies Front-end development using HTML, CSS, JavaScript, React.js, and MongoDB.
-+1
-**Graphic Designer** – Teach for Pakistan Designed educational books for primary school students via the provided curriculum.
-+1
-**Digital Marketing Intern** – Evolution Magazine Learned and applied data-driven marketing strategies to grow businesses.
-+1
+- **Associate Software Engineer** – ILMVERSITY (by Dalilmverse)  
+  Developing scalable Next.js and React applications, and integrating REST APIs.
+
+- **Web Development Intern** – Fiveriver Technologies  
+  Front-end development using HTML, CSS, JavaScript, React.js, and MongoDB.
+
+- **Graphic Designer** – Teach for Pakistan  
+  Designed educational books for primary school students.
+
+- **Digital Marketing Intern** – Evolution Magazine  
+  Learned and applied data-driven marketing strategies.
+
 
 ---
 
