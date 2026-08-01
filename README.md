@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Aadil%20Salman%20Butt&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%40%20Ilmversity%20%7C%20AI%20%26%20MLOps&descAlignY=58&descSize=16" width="100%"/>
+# Aadil Salman Butt
+
+<img src="https://img.shields.io/badge/Full--Stack%20Engineer%20%40%20Ilmversity-161b22?style=flat-square&labelColor=0d1117&color=161b22&logoColor=58a6ff" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%40+Ilmversity;React+%2B+Node.js+%2B+.NET+%2B+MongoDB;LLVM+%7C+RAG+%7C+MLOps+%7C+Computer+Vision;BS+Computer+Science%2C+FAST-NUCES+%2726" alt="Typing SVG" />
 
@@ -13,6 +17,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aadilsal&label=Profile%20Views&color=161b22&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/aadilsal?label=Followers&style=flat-square&labelColor=0d1117&color=161b22" alt="followers"/>
 
 </div>
 
@@ -53,16 +58,20 @@ class AadilSalman:
 
 <br/>
 
-## GitHub stats
+## Highlights
+
+- Innovator at heart — from a custom LLVM-based programming language to AI-powered legal assistants
+- Results-oriented — building projects that solve real problems, not just tech demos
+- Versatile — comfortable across full-stack web development, AI/ML, and creative media
+- Data-driven — experienced with predictive analytics projects like F1 race strategy modeling
+
+<br/>
+
+## Currently
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=dark_dimmed&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com/?user=aadilsal&theme=dark_dimmed&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadilsal&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production+MLOps+pipelines;Exploring+distributed+systems+%26+LLM+infra;Shipping+something+new+most+weeks" />
 
 </div>
 
@@ -174,10 +183,10 @@ Present     Full-Stack Engineer, Ilmversity (by Dalilmverse)
 
 <br/>
 
+---
+
 <div align="center">
 
 ### "I believe in building technology that inspires, informs, and empowers."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
