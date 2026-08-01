@@ -57,21 +57,13 @@ class AadilSalman:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=dark_dimmed&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=dark_dimmed&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=dark_dimmed&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilsal&theme=dark_dimmed&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=aadilsal&theme=dark_dimmed&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadilsal&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=aadilsal&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
-</div>
-
-<br/>
-
-## Contribution snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/aadilsal/aadilsal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <br/>
