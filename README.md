@@ -25,15 +25,15 @@
 
 ## About me
 
-Full-Stack Engineer at **Ilmversity**, and a recent Computer Science graduate of **National University of Computer & Emerging Sciences (FAST-NUCES)**. I build at the intersection of AI and full-stack engineering — from a custom LLVM-based programming language to a retrieval-augmented legal assistant and production MLOps pipelines.
+Full-Stack Engineer at **Ilmversity**, and a recent Computer Science graduate of **National University of Computer & Emerging Sciences (FAST-NUCES)**. I build at the intersection of AI and full-stack engineering — from AI-native SaaS platforms to computer vision systems and production MLOps pipelines.
 
 ```python
 class AadilSalman:
     def __init__(self):
         self.role = "Full-Stack Engineer @ Ilmversity"
-        self.focus = ["Full-Stack Dev", "AI/ML", "MLOps", "RAG Systems"]
+        self.focus = ["Full-Stack Dev", "AI/ML", "MLOps", "AI Agents"]
         self.currently_learning = "Distributed Systems & LLM Infra"
-        self.fun_fact = "Turned a compiler class into a spell-casting language"
+        self.fun_fact = "Shipped an AI-powered project in almost every domain I've touched"
 
     def connect(self):
         return "aadilsalman786@gmail.com"
@@ -60,7 +60,7 @@ class AadilSalman:
 
 ## Highlights
 
-- Innovator at heart — from a custom LLVM-based programming language to AI-powered legal assistants
+- Innovator at heart — from AI financial platforms to computer-vision cricket analysis systems
 - Results-oriented — building projects that solve real problems, not just tech demos
 - Versatile — comfortable across full-stack web development, AI/ML, and creative media
 - Data-driven — experienced with predictive analytics projects like F1 race strategy modeling
@@ -83,62 +83,62 @@ class AadilSalman:
 <tr>
 <td width="50%">
 
-### Magik
-Spell-inspired programming language built on **LLVM**, turning code into computational incantations.
+### [Nexa](https://github.com/aadilsal/Nexa)
+Privacy-first, **AI-powered financial decision platform** for the Pakistani market — not just an expense tracker, it turns raw spending into real decisions.
 
-`LLVM` `C++` `Compilers`
-
-</td>
-<td width="50%">
-
-### LegalMindRAG
-AI-powered human rights legal assistant using **RAG**, **FAISS**, and LLMs for verified legal answers.
-
-`Python` `RAG` `FAISS` `LLMs`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Finbotics
-AI-driven **MERN** finance dashboard with analytics, visualizations, and ML predictions.
-
-`MongoDB` `Express` `React` `Node.js`
+`TypeScript` `AI` `Fintech`
 
 </td>
 <td width="50%">
 
-### F1 Tyre Strategy Predictor
-Data-driven predictive analytics for Formula 1 race strategy optimization.
+### [Insight-OS](https://github.com/aadilsal/Insight-OS)
+AI analytics platform where users upload SQL schemas, query data in natural language, and get CFO-style insights from safe, read-only queries.
 
-`Python` `ML` `Data Science`
+`TypeScript` `AI` `NL-to-SQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Hospital Management System
-**ASP.NET** + MsSQL system for managing end-to-end hospital operations.
+### [ResearchOS](https://github.com/aadilsal/ResearchOS)
+High-performance, multi-tenant SaaS platform using autonomous AI agents to automate core-competency research. Built on Next.js.
 
-`ASP.NET` `C#` `MsSQL`
+`TypeScript` `Next.js` `AI Agents`
 
 </td>
 <td width="50%">
 
-### Tetris
-Classic Tetris rebuilt in **C++** using OOP principles and **SFML** graphics.
+### [MdcatExpert](https://github.com/aadilsal/MdcatExpert)
+AI-powered, data-driven prep tool for Pakistan's MDCAT exam — personalized study plans, smart practice, and performance analytics.
 
-`C++` `OOP` `SFML`
+`TypeScript` `AI` `EdTech`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [FairPlayReviewSystem](https://github.com/aadilsal/FairPlayReviewSystem)
+Cricket analysis system for fair-play review — hybrid ball tracking, batsman identification, wicket detection, and pose estimation.
+
+`Python` `Computer Vision` `ML`
+
+</td>
+<td width="50%">
+
+### [Churn-Predictor](https://github.com/aadilsal/Churn-Predictor)
+Production-ready churn intelligence platform — risk scores, explainability, and dashboards powered by XGBoost, SHAP, and FastAPI.
+
+`Python` `XGBoost` `FastAPI`
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### ApexFlow
-Production-grade, end-to-end **MLOps platform** for real-time Formula 1 lap-time prediction — ingestion, training, deployment, and monitoring in one pipeline.
+### [ApexFlow](https://github.com/aadilsal/ApexFlow)
+Production-grade, end-to-end **MLOps platform** for real-time Formula 1 lap-time prediction — telemetry ingestion, automated retraining, and cloud-native orchestration in one pipeline.
 
 `MLOps` `Python` `CI/CD` `Model Serving`
 
