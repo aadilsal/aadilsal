@@ -1,32 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Aadil%20Salman%20Butt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Aadil%20Salman%20Butt&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%40%20Ilmversity%20%7C%20AI%20%26%20MLOps&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Full-Stack+Engineer+%40+MERN+%2B+.NET;LLVM+%7C+RAG+%7C+MLOps+%7C+Computer+Vision;Currently%3A+BS+CS+%40+FAST-NUCES" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%40+Ilmversity;React+%2B+Node.js+%2B+.NET+%2B+MongoDB;LLVM+%7C+RAG+%7C+MLOps+%7C+Computer+Vision;BS+Computer+Science%2C+FAST-NUCES+%2726" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadilsal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadilsal)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadilsalman786@gmail.com)
+<a href="https://github.com/aadilsal"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/aadilsal"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" /></a>
+<a href="mailto:aadilsalman786@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=aadilsal&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aadilsal&label=Profile%20Views&color=161b22&style=flat-square" alt="profile views"/>
 
 </div>
 
 <br/>
 
-## About Me
+## About me
 
-I'm a Computer Science undergrad at **National University of Computer & Emerging Sciences (FAST-NUCES)** building things at the intersection of AI and full-stack engineering — from a custom LLVM-based programming language to a retrieval-augmented legal assistant and production MLOps pipelines. I care about shipping software that's fast, useful, and a little bit magical.
+Full-Stack Engineer at **Ilmversity**, and a recent Computer Science graduate of **National University of Computer & Emerging Sciences (FAST-NUCES)**. I build at the intersection of AI and full-stack engineering — from a custom LLVM-based programming language to a retrieval-augmented legal assistant and production MLOps pipelines.
 
 ```python
 class AadilSalman:
     def __init__(self):
-        self.role = "Associate Software Engineer @ ILMVERSITY"
+        self.role = "Full-Stack Engineer @ Ilmversity"
         self.focus = ["Full-Stack Dev", "AI/ML", "MLOps", "RAG Systems"]
         self.currently_learning = "Distributed Systems & LLM Infra"
         self.fun_fact = "Turned a compiler class into a spell-casting language"
@@ -37,71 +36,53 @@ class AadilSalman:
 
 <br/>
 
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,dotnet,mongodb,html,css&theme=dark" />
-
-**AI / Data Science**
-
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,dotnet,mongodb,html,css&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,py&theme=dark" />
-![FAISS](https://img.shields.io/badge/FAISS-101010?style=flat-square&logo=meta&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square&logo=openai&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
-
-**Design & Media**
-
+<img src="https://img.shields.io/badge/FAISS-161b22?style=flat-square&logo=meta&logoColor=58a6ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logo=openai&logoColor=58a6ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LLVM-161b22?style=flat-square&logo=llvm&logoColor=58a6ff&labelColor=0d1117" /><br/>
 <img src="https://skillicons.dev/icons?i=photoshop,ae,premiere&theme=dark" />
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
-
-**Cloud & Tools**
-
+<img src="https://img.shields.io/badge/Lightroom-161b22?style=flat-square&logo=adobelightroom&logoColor=58a6ff&labelColor=0d1117" /><br/>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
 <br/>
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadilsal&show_icons=true&theme=dark_dimmed&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilsal&layout=compact&theme=dark_dimmed&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilsal&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilsal&theme=dark_dimmed&hide_border=true" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadilsal&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=aadilsal&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 
-> Swap `aadilsal` above for your real GitHub username if it differs — these widgets render live from the GitHub API and only work once it's correct.
-
 <br/>
 
-## Contribution Snake 🐍
+## Contribution snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/aadilsal/aadilsal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/aadilsal/aadilsal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-> This animated snake eats your contribution graph. It needs a one-time GitHub Action set up in a repo named exactly `aadilsal/aadilsal` — I can generate that workflow file for you if you'd like.
 
 <br/>
 
-## Featured Projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🪄 [Magik](#)
+### Magik
 Spell-inspired programming language built on **LLVM**, turning code into computational incantations.
 
 `LLVM` `C++` `Compilers`
@@ -109,7 +90,7 @@ Spell-inspired programming language built on **LLVM**, turning code into computa
 </td>
 <td width="50%">
 
-### ⚖️ [LegalMindRAG](#)
+### LegalMindRAG
 AI-powered human rights legal assistant using **RAG**, **FAISS**, and LLMs for verified legal answers.
 
 `Python` `RAG` `FAISS` `LLMs`
@@ -119,7 +100,7 @@ AI-powered human rights legal assistant using **RAG**, **FAISS**, and LLMs for v
 <tr>
 <td width="50%">
 
-### 💹 [Finbotics](#)
+### Finbotics
 AI-driven **MERN** finance dashboard with analytics, visualizations, and ML predictions.
 
 `MongoDB` `Express` `React` `Node.js`
@@ -127,7 +108,7 @@ AI-driven **MERN** finance dashboard with analytics, visualizations, and ML pred
 </td>
 <td width="50%">
 
-### 🏎️ [F1 Tyre Strategy Predictor](#)
+### F1 Tyre Strategy Predictor
 Data-driven predictive analytics for Formula 1 race strategy optimization.
 
 `Python` `ML` `Data Science`
@@ -137,7 +118,7 @@ Data-driven predictive analytics for Formula 1 race strategy optimization.
 <tr>
 <td width="50%">
 
-### 🏥 [Hospital Management System](#)
+### Hospital Management System
 **ASP.NET** + MsSQL system for managing end-to-end hospital operations.
 
 `ASP.NET` `C#` `MsSQL`
@@ -145,7 +126,7 @@ Data-driven predictive analytics for Formula 1 race strategy optimization.
 </td>
 <td width="50%">
 
-### 🎮 [Tetris](#)
+### Tetris
 Classic Tetris rebuilt in **C++** using OOP principles and **SFML** graphics.
 
 `C++` `OOP` `SFML`
@@ -155,7 +136,7 @@ Classic Tetris rebuilt in **C++** using OOP principles and **SFML** graphics.
 <tr>
 <td colspan="2">
 
-### 🏁 [ApexFlow](#)
+### ApexFlow
 Production-grade, end-to-end **MLOps platform** for real-time Formula 1 lap-time prediction — ingestion, training, deployment, and monitoring in one pipeline.
 
 `MLOps` `Python` `CI/CD` `Model Serving`
@@ -169,25 +150,25 @@ Production-grade, end-to-end **MLOps platform** for real-time Formula 1 lap-time
 ## Experience
 
 ```text
-2024 – Present   Associate Software Engineer, ILMVERSITY (by Dalilmverse)
-                 → Building scalable Next.js / React apps, integrating REST APIs
+Present     Full-Stack Engineer, Ilmversity (by Dalilmverse)
+            → Building scalable Next.js / React applications, integrating REST APIs
 
-                 Web Development Intern, Fiveriver Technologies
-                 → Front-end dev with HTML, CSS, JavaScript, React.js, MongoDB
+            Web Development Intern, Fiveriver Technologies
+            → Front-end dev with HTML, CSS, JavaScript, React.js, MongoDB
 
-                 Graphic Designer, Teach for Pakistan
-                 → Designed educational books for primary school students
+            Graphic Designer, Teach for Pakistan
+            → Designed educational books for primary school students
 
-                 Digital Marketing Intern, Evolution Magazine
-                 → Applied data-driven marketing strategies
+            Digital Marketing Intern, Evolution Magazine
+            → Applied data-driven marketing strategies
 ```
 
 ## Education
 
 ```text
-2022 – Present   BS Computer Science, National University of Computer & Emerging Sciences
-2020 – 2022      Lahore Grammar School
-2017 – 2020      Beaconhouse School System
+2022 – 2026   BS Computer Science, National University of Computer & Emerging Sciences
+2020 – 2022   Lahore Grammar School
+2017 – 2020   Beaconhouse School System
 ```
 
 ## Certifications
@@ -203,8 +184,8 @@ Production-grade, end-to-end **MLOps platform** for real-time Formula 1 lap-time
 
 <div align="center">
 
-### 💬 "I believe in building technology that inspires, informs, and empowers."
+### "I believe in building technology that inspires, informs, and empowers."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
